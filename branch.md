@@ -1,3 +1,5 @@
+# Gérer les branches dans Git an 1'42
+
 Les branches dans Git servent à séparer les différents sous-projets qu'un
 projet peut avoir. Par exemple, si j'ai un programme qui marche déjà auquel je
 veux ajouter une fonctionnalité, je peux créer une branche, développer mon code

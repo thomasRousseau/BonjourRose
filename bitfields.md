@@ -1,3 +1,5 @@
+# Les champs de bits en 1'42
+
 Je ne suis probablement le seul en ROSE qui doit faire des manipulations bit à
 bit, notamment pour une gestion fine de la mémoire. On l'a tous fait à un
 moment ou à un autre pour régler des configurations, dans chibiOS par exemple.
