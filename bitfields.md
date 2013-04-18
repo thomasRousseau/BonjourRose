@@ -68,8 +68,8 @@ Exemple, j'ai le fichier suivant :
 
 À l'exécution, j'obtiens :
 
-Taille de my_struct : 3
-Taille de other_struct : 2
+        Taille de my_struct : 3
+        Taille de other_struct : 2
 
 Explication : les éléments du premier bit field de my_struct ont été déclaré
 comme faisant partie d'un uint8_t. Ils remplissent au total 2 bits. On demande
